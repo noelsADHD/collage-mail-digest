@@ -1,0 +1,20 @@
+.env
+venv/
+env/
+.venv/
+# Python cache files — auto-generated, not needed
+__pycache__/
+*.pyc
+*.pyo
+
+# SQLite database — contains user data
+*.db
+*.sqlite3
+
+# OAuth token — contains your Gmail login session
+token.json
+
+# OS junk files
+.DS_Store
+Thumbs.db
+credentials.json
